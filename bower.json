@@ -1,0 +1,20 @@
+{
+  "name": "learnng",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dayuoba/learn_angular",
+  "authors": [
+    "dayuoba"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.0.0"
+  }
+}
